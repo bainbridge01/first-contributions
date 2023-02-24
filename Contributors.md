@@ -2625,3 +2625,4 @@ Ayan Das
 - [Raul Molina] (https://github.com/RauulDev)
 - [Tijme](https://github.com/7ijme)
 - [Khanh Nguyen] (https://github.com/Dk146)
+- [Edafe Bainbridge Erhirhi] (https://github.com/bainbridge01)
